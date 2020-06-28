@@ -25,6 +25,6 @@ The purpose of this project was to practice reading in a CSV file as well as for
 
 ## Project Description
 
-*load in CSV file
+* load in CSV file
 * Analyze data based on purchasing and demographics
 
