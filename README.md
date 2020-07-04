@@ -1,5 +1,5 @@
 # pandas-challenge
-pandas HW
+Pandas Home Work
 
 
 ## Project Intro/Objective
